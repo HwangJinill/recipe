@@ -1,0 +1,3008 @@
+[
+ {
+  "id": 1,
+  "name": "김치볶음밥",
+  "cuisine": "한식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "1공기"
+   },
+   {
+    "name": "김치",
+    "required": true,
+    "amount": "1컵"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "계란",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "김치와 대파를 잘게 썬다.",
+   "팬에 식용유를 두르고 대파와 김치를 볶는다.",
+   "밥을 넣고 고루 섞이도록 볶는다.",
+   "계란프라이를 올려 완성한다."
+  ]
+ },
+ {
+  "id": 2,
+  "name": "계란말이",
+  "cuisine": "한식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "4개"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "채소를 아주 잘게 다진다.",
+   "계란을 풀고 채소와 소금을 섞는다.",
+   "약불 팬에 계란물을 얇게 부어 돌돌 만다.",
+   "남은 계란물을 부어 반복한 뒤 식혀서 썬다."
+  ]
+ },
+ {
+  "id": 3,
+  "name": "된장찌개",
+  "cuisine": "한식",
+  "time_min": 25,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "된장",
+    "required": true,
+    "amount": "2큰술"
+   },
+   {
+    "name": "두부",
+    "required": true,
+    "amount": "1/2모"
+   },
+   {
+    "name": "애호박",
+    "required": true,
+    "amount": "1/3개"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "고추",
+    "required": false,
+    "amount": "1개"
+   }
+  ],
+  "steps": [
+   "냄비에 물 2컵을 붓고 된장을 푼다.",
+   "양파와 애호박을 썰어 넣고 끓인다.",
+   "두부를 넣고 5분 더 끓인다.",
+   "대파와 고추를 넣고 마무리한다."
+  ]
+ },
+ {
+  "id": 4,
+  "name": "제육볶음",
+  "cuisine": "한식",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "300g"
+   },
+   {
+    "name": "고추장",
+    "required": true,
+    "amount": "2큰술"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1대"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "3쪽"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "돼지고기에 고추장, 간장, 다진 마늘을 넣고 버무려 10분 재운다.",
+   "양파와 대파를 썬다.",
+   "달군 팬에 고기를 볶는다.",
+   "고기가 익으면 양파와 대파를 넣고 센 불에서 볶아 낸다."
+  ]
+ },
+ {
+  "id": 5,
+  "name": "감자조림",
+  "cuisine": "한식",
+  "time_min": 30,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "감자",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "간장",
+    "required": true,
+    "amount": "3큰술"
+   },
+   {
+    "name": "설탕",
+    "required": true,
+    "amount": "1큰술"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/2개"
+   },
+   {
+    "name": "고추",
+    "required": false,
+    "amount": "1개"
+   }
+  ],
+  "steps": [
+   "감자를 한입 크기로 썰어 물에 담근다.",
+   "냄비에 감자, 물 1컵, 간장, 설탕을 넣고 끓인다.",
+   "양파와 고추를 넣고 중불에서 조린다.",
+   "국물이 자작해지면 불을 끈다."
+  ]
+ },
+ {
+  "id": 6,
+  "name": "오야코동",
+  "cuisine": "일식",
+  "time_min": 20,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "닭고기",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "닭고기와 양파를 먹기 좋게 썬다.",
+   "물, 간장, 설탕을 끓이고 닭고기와 양파를 익힌다.",
+   "풀어 둔 계란을 둘러 부어 반숙으로 익힌다.",
+   "밥 위에 올려 완성한다."
+  ]
+ },
+ {
+  "id": 7,
+  "name": "규동",
+  "cuisine": "일식",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "소고기",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "계란",
+    "required": false,
+    "amount": "1개"
+   }
+  ],
+  "steps": [
+   "양파를 얇게 채 썬다.",
+   "물, 간장, 설탕을 끓이고 양파를 먼저 익힌다.",
+   "소고기를 넣고 익힌다.",
+   "밥 위에 올리고 계란 노른자를 얹는다."
+  ]
+ },
+ {
+  "id": 8,
+  "name": "야키우동",
+  "cuisine": "일식",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "우동면",
+    "required": true,
+    "amount": "2인분"
+   },
+   {
+    "name": "양배추",
+    "required": true,
+    "amount": "2장"
+   },
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "100g"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/2개"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "채소와 돼지고기를 먹기 좋게 썬다.",
+   "팬에 고기를 볶다가 채소를 넣어 볶는다.",
+   "우동면을 넣고 간장으로 간한다.",
+   "면이 풀어지면 접시에 담는다."
+  ]
+ },
+ {
+  "id": 9,
+  "name": "미소시루",
+  "cuisine": "일식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "된장",
+    "required": true,
+    "amount": "2큰술"
+   },
+   {
+    "name": "두부",
+    "required": true,
+    "amount": "1/2모"
+   },
+   {
+    "name": "미역",
+    "required": false,
+    "amount": "한 줌"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   }
+  ],
+  "steps": [
+   "냄비에 물 2컵을 끓인다.",
+   "두부와 미역을 넣고 2분 끓인다.",
+   "불을 줄이고 된장을 푼다.",
+   "대파를 올리고 끓기 직전에 불을 끈다."
+  ]
+ },
+ {
+  "id": 10,
+  "name": "타마고야키",
+  "cuisine": "일식",
+  "time_min": 15,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "4개"
+   },
+   {
+    "name": "설탕",
+    "required": true,
+    "amount": "1큰술"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1작은술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "계란에 설탕과 간장을 넣고 푼다.",
+   "사각 팬에 기름을 바르고 약불로 달군다.",
+   "계란물을 3번에 나눠 부어 돌돌 말아 익힌다.",
+   "식힌 뒤 썰어 낸다."
+  ]
+ },
+ {
+  "id": 11,
+  "name": "토마토계란볶음",
+  "cuisine": "중식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "토마토",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1작은술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "토마토를 한입 크기로 썬다.",
+   "계란을 풀어 먼저 스크램블로 익혀 덜어 둔다.",
+   "기름에 대파와 토마토를 볶고 설탕을 넣는다.",
+   "계란을 다시 넣고 섞어 완성한다."
+  ]
+ },
+ {
+  "id": 12,
+  "name": "마파두부",
+  "cuisine": "중식",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "두부",
+    "required": true,
+    "amount": "1모"
+   },
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "100g"
+   },
+   {
+    "name": "두반장",
+    "required": true,
+    "amount": "1큰술"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1대"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "3쪽"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "두부를 깍둑썰기해 데친다.",
+   "대파와 마늘을 볶아 향을 내고 돼지고기를 볶는다.",
+   "두반장과 간장, 물 1/2컵을 넣고 끓인다.",
+   "두부를 넣어 5분 조리고 대파를 올린다."
+  ]
+ },
+ {
+  "id": 13,
+  "name": "짜장면",
+  "cuisine": "중식",
+  "time_min": 30,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "춘장",
+    "required": true,
+    "amount": "3큰술"
+   },
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "150g"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "면",
+    "required": true,
+    "amount": "2인분"
+   },
+   {
+    "name": "감자",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "3큰술"
+   }
+  ],
+  "steps": [
+   "춘장을 기름에 볶아 덜어 둔다.",
+   "돼지고기, 감자, 양파를 깍둑썰기해 볶는다.",
+   "춘장과 물 1컵을 넣고 걸쭉하게 끓인다.",
+   "삶은 면 위에 소스를 얹는다."
+  ]
+ },
+ {
+  "id": 14,
+  "name": "청경채볶음",
+  "cuisine": "중식",
+  "time_min": 10,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "청경채",
+    "required": true,
+    "amount": "4포기"
+   },
+   {
+    "name": "마늘",
+    "required": true,
+    "amount": "3쪽"
+   },
+   {
+    "name": "굴소스",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "청경채를 씻어 반으로 가른다.",
+   "기름에 편마늘을 볶아 향을 낸다.",
+   "청경채를 넣고 센 불에서 볶는다.",
+   "굴소스로 간하고 불을 끈다."
+  ]
+ },
+ {
+  "id": 15,
+  "name": "새우볶음밥",
+  "cuisine": "중식",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "새우",
+    "required": true,
+    "amount": "10마리"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1대"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "굴소스",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "새우는 손질하고 채소는 잘게 다진다.",
+   "팬에 계란을 스크램블해 덜어 둔다.",
+   "대파, 당근, 새우를 볶다가 밥을 넣는다.",
+   "계란과 굴소스를 넣고 센 불에서 볶는다."
+  ]
+ },
+ {
+  "id": 16,
+  "name": "토마토 파스타",
+  "cuisine": "서양식",
+  "time_min": 25,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "파스타면",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "토마토소스",
+    "required": true,
+    "amount": "1컵"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "3쪽"
+   },
+   {
+    "name": "올리브유",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "끓는 소금물에 파스타면을 삶는다.",
+   "올리브유에 마늘과 양파를 볶는다.",
+   "토마토소스를 넣고 5분 끓인다.",
+   "면을 넣고 소스와 버무린다."
+  ]
+ },
+ {
+  "id": 17,
+  "name": "스크램블 에그 토스트",
+  "cuisine": "서양식",
+  "time_min": 10,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "식빵",
+    "required": true,
+    "amount": "2장"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "우유",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "버터",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "식빵을 팬이나 토스터에 굽는다.",
+   "계란에 우유를 섞어 푼다.",
+   "버터를 녹인 팬에 계란을 저어 가며 익힌다.",
+   "토스트 위에 올린다."
+  ]
+ },
+ {
+  "id": 18,
+  "name": "크림 파스타",
+  "cuisine": "서양식",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "파스타면",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "생크림",
+    "required": true,
+    "amount": "1컵"
+   },
+   {
+    "name": "베이컨",
+    "required": true,
+    "amount": "3줄"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/2개"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "3쪽"
+   },
+   {
+    "name": "후추",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "파스타면을 삶는다.",
+   "베이컨, 마늘, 양파를 볶는다.",
+   "생크림을 넣고 약불에서 졸인다.",
+   "면을 넣고 섞은 뒤 후추를 뿌린다."
+  ]
+ },
+ {
+  "id": 19,
+  "name": "감자 수프",
+  "cuisine": "서양식",
+  "time_min": 30,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "감자",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "우유",
+    "required": true,
+    "amount": "2컵"
+   },
+   {
+    "name": "버터",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "감자와 양파를 얇게 썬다.",
+   "버터에 양파를 볶고 감자와 물 1컵을 넣어 익힌다.",
+   "블렌더로 곱게 간다.",
+   "우유를 넣고 데운 뒤 소금으로 간한다."
+  ]
+ },
+ {
+  "id": 20,
+  "name": "치킨 샐러드",
+  "cuisine": "서양식",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "닭고기",
+    "required": true,
+    "amount": "150g"
+   },
+   {
+    "name": "양상추",
+    "required": true,
+    "amount": "1/2통"
+   },
+   {
+    "name": "토마토",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "올리브유",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   },
+   {
+    "name": "후추",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "닭고기에 소금, 후추를 뿌려 팬에 굽는다.",
+   "양상추와 토마토를 먹기 좋게 썬다.",
+   "구운 닭고기를 한입 크기로 썬다.",
+   "모두 담고 올리브유를 뿌린다."
+  ]
+ },
+ {
+  "id": 21,
+  "name": "콩나물국",
+  "cuisine": "한식",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "콩나물",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "대파",
+    "required": true,
+    "amount": "1/2대"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "콩나물을 씻어 냄비에 물 3컵과 넣고 뚜껑을 덮어 끓인다",
+   "끓으면 다진 마늘과 소금으로 간한다",
+   "어슷 썬 대파를 넣고 1분 더 끓인다"
+  ]
+ },
+ {
+  "id": 22,
+  "name": "미역국",
+  "cuisine": "한식",
+  "time_min": 25,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "미역",
+    "required": true,
+    "amount": "한 줌"
+   },
+   {
+    "name": "소고기",
+    "required": true,
+    "amount": "100g"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "참기름",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "미역을 불려 먹기 좋게 자른다",
+   "참기름에 소고기와 미역을 볶는다",
+   "물 4컵을 붓고 끓이다가 간장과 마늘로 간한다",
+   "20분 정도 푹 끓인다"
+  ]
+ },
+ {
+  "id": 23,
+  "name": "김치찌개",
+  "cuisine": "한식",
+  "time_min": 30,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "김치",
+    "required": true,
+    "amount": "2컵"
+   },
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "150g"
+   },
+   {
+    "name": "두부",
+    "required": true,
+    "amount": "1/2모"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1대"
+   },
+   {
+    "name": "고춧가루",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "냄비에 돼지고기와 김치를 볶는다",
+   "물 3컵을 붓고 끓인다",
+   "두부와 대파를 넣고 10분 더 끓인다"
+  ]
+ },
+ {
+  "id": 24,
+  "name": "불고기",
+  "cuisine": "한식",
+  "time_min": 30,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "소고기",
+    "required": true,
+    "amount": "300g"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1대"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "4큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "3쪽"
+   },
+   {
+    "name": "참기름",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "소고기에 간장, 설탕, 다진 마늘, 참기름을 넣고 30분 재운다",
+   "양파와 대파를 썬다",
+   "달군 팬에 고기와 채소를 함께 볶는다"
+  ]
+ },
+ {
+  "id": 25,
+  "name": "시금치나물",
+  "cuisine": "한식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "시금치",
+    "required": true,
+    "amount": "1단"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "1쪽"
+   },
+   {
+    "name": "참기름",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "시금치를 끓는 물에 30초 데쳐 찬물에 헹군다",
+   "물기를 꼭 짠다",
+   "다진 마늘, 소금, 참기름에 무친다"
+  ]
+ },
+ {
+  "id": 26,
+  "name": "계란찜",
+  "cuisine": "한식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "4개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "계란을 풀고 물 1/2컵과 소금을 섞는다",
+   "뚝배기에 붓고 다진 채소를 올린다",
+   "약불에서 저어 가며 익히다가 뚜껑을 덮어 5분 둔다"
+  ]
+ },
+ {
+  "id": 27,
+  "name": "닭볶음탕",
+  "cuisine": "한식",
+  "time_min": 45,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "닭고기",
+    "required": true,
+    "amount": "1kg"
+   },
+   {
+    "name": "감자",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "고춧가루",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "4큰술"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1대"
+   }
+  ],
+  "steps": [
+   "닭고기를 데쳐 씻는다",
+   "양념(고춧가루, 간장, 설탕)과 물 2컵을 넣고 끓인다",
+   "감자, 당근, 양파를 넣고 25분 조린다",
+   "대파를 올린다"
+  ]
+ },
+ {
+  "id": 28,
+  "name": "어묵볶음",
+  "cuisine": "한식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "어묵",
+    "required": true,
+    "amount": "300g"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/2개"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "어묵과 채소를 얇게 썬다",
+   "팬에 채소를 먼저 볶는다",
+   "어묵과 간장, 설탕을 넣고 볶는다"
+  ]
+ },
+ {
+  "id": 29,
+  "name": "김밥",
+  "cuisine": "한식",
+  "time_min": 40,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "김",
+    "required": true,
+    "amount": "4장"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "시금치",
+    "required": false,
+    "amount": "1줌"
+   },
+   {
+    "name": "햄",
+    "required": false,
+    "amount": "4줄"
+   },
+   {
+    "name": "참기름",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "밥에 참기름과 소금을 섞는다",
+   "계란지단, 당근, 시금치, 햄을 준비한다",
+   "김 위에 밥과 속 재료를 올려 돌돌 만다",
+   "먹기 좋게 썬다"
+  ]
+ },
+ {
+  "id": 30,
+  "name": "두부조림",
+  "cuisine": "한식",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "두부",
+    "required": true,
+    "amount": "1모"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "고춧가루",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   }
+  ],
+  "steps": [
+   "두부를 도톰하게 썰어 노릇하게 굽는다",
+   "간장, 고춧가루, 다진 마늘, 물을 섞어 양념장을 만든다",
+   "두부 위에 양념장과 대파를 올려 조린다"
+  ]
+ },
+ {
+  "id": 31,
+  "name": "가츠동",
+  "cuisine": "일식",
+  "time_min": 30,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "2장"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "밀가루",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "3큰술"
+   }
+  ],
+  "steps": [
+   "돼지고기에 밀가루와 계란물을 입혀 튀기듯 굽는다",
+   "물, 간장, 설탕에 양파를 익힌다",
+   "돈가스를 올리고 계란물을 부어 반숙으로 익힌다",
+   "밥 위에 얹는다"
+  ]
+ },
+ {
+  "id": 32,
+  "name": "오코노미야키",
+  "cuisine": "일식",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "양배추",
+    "required": true,
+    "amount": "1/4통"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "밀가루",
+    "required": true,
+    "amount": "1컵"
+   },
+   {
+    "name": "베이컨",
+    "required": false,
+    "amount": "3줄"
+   },
+   {
+    "name": "마요네즈",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "양배추를 채 썰어 밀가루, 계란, 물과 섞는다",
+   "팬에 반죽을 둥글게 펴고 베이컨을 올려 굽는다",
+   "뒤집어 속까지 익힌 뒤 마요네즈를 뿌린다"
+  ]
+ },
+ {
+  "id": 33,
+  "name": "가라아게",
+  "cuisine": "일식",
+  "time_min": 30,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "닭고기",
+    "required": true,
+    "amount": "300g"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   },
+   {
+    "name": "밀가루",
+    "required": false,
+    "amount": "1/2컵"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2컵"
+   }
+  ],
+  "steps": [
+   "닭고기를 간장과 다진 마늘에 20분 재운다",
+   "밀가루를 입힌다",
+   "170도 기름에 노릇하게 두 번 튀긴다"
+  ]
+ },
+ {
+  "id": 34,
+  "name": "연어덮밥",
+  "cuisine": "일식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "연어",
+    "required": true,
+    "amount": "150g"
+   },
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "김",
+    "required": false,
+    "amount": "1장"
+   },
+   {
+    "name": "참기름",
+    "required": false,
+    "amount": "1작은술"
+   }
+  ],
+  "steps": [
+   "연어를 한입 크기로 썬다",
+   "간장과 참기름에 버무린다",
+   "밥 위에 올리고 김을 뿌린다"
+  ]
+ },
+ {
+  "id": 35,
+  "name": "돈지루",
+  "cuisine": "일식",
+  "time_min": 30,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "100g"
+   },
+   {
+    "name": "된장",
+    "required": true,
+    "amount": "2큰술"
+   },
+   {
+    "name": "무",
+    "required": true,
+    "amount": "1/4개"
+   },
+   {
+    "name": "당근",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   }
+  ],
+  "steps": [
+   "무와 당근을 은행잎 모양으로 썬다",
+   "냄비에 돼지고기와 채소를 볶고 물 3컵을 붓는다",
+   "채소가 익으면 된장을 풀고 대파를 올린다"
+  ]
+ },
+ {
+  "id": 36,
+  "name": "오니기리",
+  "cuisine": "일식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "김",
+    "required": true,
+    "amount": "2장"
+   },
+   {
+    "name": "참치캔",
+    "required": false,
+    "amount": "1캔"
+   },
+   {
+    "name": "마요네즈",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "참치와 마요네즈를 섞어 속을 만든다",
+   "손에 소금물을 묻히고 밥에 속을 넣어 삼각형으로 뭉친다",
+   "김을 두른다"
+  ]
+ },
+ {
+  "id": 37,
+  "name": "니쿠자가",
+  "cuisine": "일식",
+  "time_min": 35,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "소고기",
+    "required": true,
+    "amount": "150g"
+   },
+   {
+    "name": "감자",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1/2개"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "재료를 큼직하게 썬다",
+   "소고기를 볶다가 채소를 넣고 볶는다",
+   "물 1.5컵, 간장, 설탕을 넣고 20분 조린다"
+  ]
+ },
+ {
+  "id": 38,
+  "name": "소면샐러드",
+  "cuisine": "일식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "소면",
+    "required": true,
+    "amount": "2인분"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "오이",
+    "required": false,
+    "amount": "1/2개"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1작은술"
+   }
+  ],
+  "steps": [
+   "소면을 삶아 찬물에 헹군다",
+   "간장, 설탕, 물을 섞어 국물을 만든다",
+   "오이와 대파를 올려 낸다"
+  ]
+ },
+ {
+  "id": 39,
+  "name": "차완무시",
+  "cuisine": "일식",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "새우",
+    "required": true,
+    "amount": "4마리"
+   },
+   {
+    "name": "버섯",
+    "required": false,
+    "amount": "2개"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1작은술"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "계란에 물 1.5컵과 소금을 섞어 체에 거른다",
+   "그릇에 새우와 버섯을 넣고 계란물을 붓는다",
+   "약불에서 15분 찐다"
+  ]
+ },
+ {
+  "id": 40,
+  "name": "새우튀김덮밥",
+  "cuisine": "일식",
+  "time_min": 35,
+  "difficulty": "어려움",
+  "ingredients": [
+   {
+    "name": "새우",
+    "required": true,
+    "amount": "8마리"
+   },
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "밀가루",
+    "required": true,
+    "amount": "1/2컵"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2컵"
+   }
+  ],
+  "steps": [
+   "새우 꼬리를 남기고 손질한다",
+   "밀가루, 계란물, 밀가루 반죽을 입혀 튀긴다",
+   "간장, 설탕, 물을 끓여 소스를 만든다",
+   "밥 위에 새우튀김과 소스를 올린다"
+  ]
+ },
+ {
+  "id": 41,
+  "name": "깐풍기",
+  "cuisine": "중식",
+  "time_min": 40,
+  "difficulty": "어려움",
+  "ingredients": [
+   {
+    "name": "닭고기",
+    "required": true,
+    "amount": "300g"
+   },
+   {
+    "name": "대파",
+    "required": true,
+    "amount": "1대"
+   },
+   {
+    "name": "마늘",
+    "required": true,
+    "amount": "4쪽"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "식초",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "고추",
+    "required": false,
+    "amount": "2개"
+   },
+   {
+    "name": "전분",
+    "required": false,
+    "amount": "1/2컵"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2컵"
+   }
+  ],
+  "steps": [
+   "닭고기에 전분을 입혀 두 번 튀긴다",
+   "팬에 다진 대파, 마늘, 고추를 볶는다",
+   "간장, 식초, 설탕을 넣고 끓인다",
+   "튀긴 닭을 넣고 버무린다"
+  ]
+ },
+ {
+  "id": 42,
+  "name": "탕수육",
+  "cuisine": "중식",
+  "time_min": 50,
+  "difficulty": "어려움",
+  "ingredients": [
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "300g"
+   },
+   {
+    "name": "전분",
+    "required": true,
+    "amount": "1컵"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "당근",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "식초",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "3큰술"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "3컵"
+   }
+  ],
+  "steps": [
+   "돼지고기에 전분 반죽을 입혀 두 번 튀긴다",
+   "물, 식초, 설탕, 간장을 끓이고 채소를 넣는다",
+   "전분물로 걸쭉하게 만든다",
+   "고기에 소스를 곁들인다"
+  ]
+ },
+ {
+  "id": 43,
+  "name": "짬뽕",
+  "cuisine": "중식",
+  "time_min": 35,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "면",
+    "required": true,
+    "amount": "2인분"
+   },
+   {
+    "name": "오징어",
+    "required": true,
+    "amount": "1마리"
+   },
+   {
+    "name": "양배추",
+    "required": true,
+    "amount": "2장"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "돼지고기",
+    "required": false,
+    "amount": "100g"
+   },
+   {
+    "name": "고춧가루",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "3쪽"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "기름에 마늘, 돼지고기, 고춧가루를 볶는다",
+   "채소와 오징어를 넣고 볶는다",
+   "물 3컵을 붓고 끓인다",
+   "삶은 면에 붓는다"
+  ]
+ },
+ {
+  "id": 44,
+  "name": "차오멘",
+  "cuisine": "중식",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "면",
+    "required": true,
+    "amount": "2인분"
+   },
+   {
+    "name": "양배추",
+    "required": true,
+    "amount": "3장"
+   },
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "100g"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "굴소스",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "면을 삶아 건진다",
+   "팬에 고기와 채소를 볶는다",
+   "면과 굴소스를 넣고 센 불에서 볶는다"
+  ]
+ },
+ {
+  "id": 45,
+  "name": "가지볶음",
+  "cuisine": "중식",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "가지",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "마늘",
+    "required": true,
+    "amount": "3쪽"
+   },
+   {
+    "name": "굴소스",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "가지를 길게 썬다",
+   "기름에 마늘과 대파를 볶아 향을 낸다",
+   "가지를 넣고 굴소스로 간해 볶는다"
+  ]
+ },
+ {
+  "id": 46,
+  "name": "고추잡채",
+  "cuisine": "중식",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "피망",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "150g"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "굴소스",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "피망, 양파, 돼지고기를 채 썬다",
+   "마늘과 고기를 먼저 볶는다",
+   "채소를 넣고 굴소스와 간장으로 볶는다"
+  ]
+ },
+ {
+  "id": 47,
+  "name": "계란탕",
+  "cuisine": "중식",
+  "time_min": 10,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "대파",
+    "required": true,
+    "amount": "1/2대"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   },
+   {
+    "name": "후추",
+    "required": false,
+    "amount": "약간"
+   },
+   {
+    "name": "참기름",
+    "required": false,
+    "amount": "1작은술"
+   }
+  ],
+  "steps": [
+   "물 2컵을 끓인다",
+   "계란을 풀어 가늘게 둘러 넣는다",
+   "소금, 후추로 간하고 대파와 참기름을 넣는다"
+  ]
+ },
+ {
+  "id": 48,
+  "name": "브로콜리새우볶음",
+  "cuisine": "중식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "브로콜리",
+    "required": true,
+    "amount": "1송이"
+   },
+   {
+    "name": "새우",
+    "required": true,
+    "amount": "8마리"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   },
+   {
+    "name": "굴소스",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "브로콜리를 데친다",
+   "기름에 마늘과 새우를 볶는다",
+   "브로콜리와 굴소스를 넣어 볶는다"
+  ]
+ },
+ {
+  "id": 49,
+  "name": "천진반",
+  "cuisine": "중식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "1공기"
+   },
+   {
+    "name": "대파",
+    "required": true,
+    "amount": "1/2대"
+   },
+   {
+    "name": "새우",
+    "required": false,
+    "amount": "4마리"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "굴소스",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "계란을 풀어 대파, 새우와 함께 볶아 두툼한 오믈렛을 만든다",
+   "간장, 굴소스, 물을 끓여 소스를 만든다",
+   "밥 위에 올리고 소스를 끼얹는다"
+  ]
+ },
+ {
+  "id": 50,
+  "name": "숙주볶음",
+  "cuisine": "중식",
+  "time_min": 10,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "숙주",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "돼지고기",
+    "required": true,
+    "amount": "100g"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   },
+   {
+    "name": "굴소스",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "기름에 마늘과 돼지고기를 볶는다",
+   "숙주를 넣고 센 불에서 30초 볶는다",
+   "굴소스로 간한다"
+  ]
+ },
+ {
+  "id": 51,
+  "name": "오믈렛",
+  "cuisine": "서양식",
+  "time_min": 10,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "치즈",
+    "required": false,
+    "amount": "1장"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "버섯",
+    "required": false,
+    "amount": "2개"
+   },
+   {
+    "name": "버터",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "양파와 버섯을 잘게 썰어 볶는다",
+   "계란에 소금을 넣고 풀어 버터 두른 팬에 붓는다",
+   "속 재료와 치즈를 올려 반으로 접는다"
+  ]
+ },
+ {
+  "id": 52,
+  "name": "까르보나라",
+  "cuisine": "서양식",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "파스타면",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "베이컨",
+    "required": true,
+    "amount": "3줄"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "치즈",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "후추",
+    "required": false,
+    "amount": "약간"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   }
+  ],
+  "steps": [
+   "파스타면을 삶는다",
+   "베이컨과 마늘을 볶는다",
+   "불을 끄고 면, 계란, 치즈를 넣어 빠르게 섞는다",
+   "후추를 뿌린다"
+  ]
+ },
+ {
+  "id": 53,
+  "name": "알리오올리오",
+  "cuisine": "서양식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "파스타면",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "마늘",
+    "required": true,
+    "amount": "8쪽"
+   },
+   {
+    "name": "올리브유",
+    "required": false,
+    "amount": "4큰술"
+   },
+   {
+    "name": "고추",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "파스타면을 삶는다",
+   "올리브유에 편마늘과 고추를 약불로 볶는다",
+   "면과 면수를 넣고 볶는다"
+  ]
+ },
+ {
+  "id": 54,
+  "name": "그릴드치즈샌드위치",
+  "cuisine": "서양식",
+  "time_min": 10,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "식빵",
+    "required": true,
+    "amount": "2장"
+   },
+   {
+    "name": "치즈",
+    "required": true,
+    "amount": "2장"
+   },
+   {
+    "name": "버터",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "햄",
+    "required": false,
+    "amount": "1장"
+   }
+  ],
+  "steps": [
+   "식빵에 치즈와 햄을 올려 덮는다",
+   "버터를 두른 팬에 앞뒤로 노릇하게 굽는다"
+  ]
+ },
+ {
+  "id": 55,
+  "name": "햄버그스테이크",
+  "cuisine": "서양식",
+  "time_min": 35,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "소고기",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1/2개"
+   },
+   {
+    "name": "계란",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "케첩",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   },
+   {
+    "name": "후추",
+    "required": false,
+    "amount": "약간"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "양파를 다져 볶아 식힌다",
+   "소고기, 양파, 소금, 후추를 섞어 반죽한다",
+   "동그랗게 빚어 중불에서 앞뒤로 구운 뒤 케첩 소스를 곁들인다"
+  ]
+ },
+ {
+  "id": 56,
+  "name": "프렌치토스트",
+  "cuisine": "서양식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "식빵",
+    "required": true,
+    "amount": "2장"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "우유",
+    "required": true,
+    "amount": "1/2컵"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "버터",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "계란, 우유, 설탕을 섞는다",
+   "식빵을 담가 적신다",
+   "버터 두른 팬에 노릇하게 굽는다"
+  ]
+ },
+ {
+  "id": 57,
+  "name": "감바스",
+  "cuisine": "서양식",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "새우",
+    "required": true,
+    "amount": "10마리"
+   },
+   {
+    "name": "마늘",
+    "required": true,
+    "amount": "8쪽"
+   },
+   {
+    "name": "올리브유",
+    "required": true,
+    "amount": "1/2컵"
+   },
+   {
+    "name": "고추",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "올리브유에 편마늘과 고추를 약불로 끓인다",
+   "새우와 소금을 넣고 익힌다"
+  ]
+ },
+ {
+  "id": 58,
+  "name": "양송이크림리조또",
+  "cuisine": "서양식",
+  "time_min": 35,
+  "difficulty": "어려움",
+  "ingredients": [
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "1공기"
+   },
+   {
+    "name": "버섯",
+    "required": true,
+    "amount": "5개"
+   },
+   {
+    "name": "생크림",
+    "required": true,
+    "amount": "1/2컵"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "치즈",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "버터",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "버터에 양파와 버섯을 볶는다",
+   "밥과 물 1컵을 넣고 끓인다",
+   "생크림과 치즈를 넣고 걸쭉하게 졸인다"
+  ]
+ },
+ {
+  "id": 59,
+  "name": "참치샌드위치",
+  "cuisine": "서양식",
+  "time_min": 10,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "식빵",
+    "required": true,
+    "amount": "2장"
+   },
+   {
+    "name": "참치캔",
+    "required": true,
+    "amount": "1캔"
+   },
+   {
+    "name": "마요네즈",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "양상추",
+    "required": false,
+    "amount": "2장"
+   }
+  ],
+  "steps": [
+   "참치 기름을 빼고 마요네즈, 다진 양파와 섞는다",
+   "식빵에 양상추와 참치를 올려 덮는다"
+  ]
+ },
+ {
+  "id": 60,
+  "name": "야채수프",
+  "cuisine": "서양식",
+  "time_min": 35,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "당근",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "감자",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "토마토소스",
+    "required": false,
+    "amount": "1컵"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   },
+   {
+    "name": "올리브유",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "채소를 깍둑썰기한다",
+   "올리브유에 마늘과 채소를 볶는다",
+   "물 3컵과 토마토소스를 넣고 20분 끓인다",
+   "소금으로 간한다"
+  ]
+ },
+ {
+  "id": 61,
+  "name": "팟타이",
+  "cuisine": "기타",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "쌀국수",
+    "required": true,
+    "amount": "150g"
+   },
+   {
+    "name": "새우",
+    "required": true,
+    "amount": "6마리"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "숙주",
+    "required": false,
+    "amount": "1줌"
+   },
+   {
+    "name": "피시소스",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "설탕",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "쌀국수를 불린다",
+   "기름에 새우를 볶고 계란을 스크램블한다",
+   "면, 피시소스, 설탕을 넣고 볶는다",
+   "숙주를 넣고 마무리한다"
+  ]
+ },
+ {
+  "id": 62,
+  "name": "타코",
+  "cuisine": "기타",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "또띠아",
+    "required": true,
+    "amount": "4장"
+   },
+   {
+    "name": "소고기",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "토마토",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "양상추",
+    "required": false,
+    "amount": "2장"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "치즈",
+    "required": false,
+    "amount": "1/2컵"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "소고기를 소금으로 간해 볶는다",
+   "토마토, 양상추, 양파를 썬다",
+   "또띠아에 고기와 채소, 치즈를 올려 접는다"
+  ]
+ },
+ {
+  "id": 63,
+  "name": "카레라이스",
+  "cuisine": "기타",
+  "time_min": 35,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "카레가루",
+    "required": true,
+    "amount": "1/2봉"
+   },
+   {
+    "name": "감자",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "양파",
+    "required": true,
+    "amount": "1개"
+   },
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "당근",
+    "required": false,
+    "amount": "1/2개"
+   },
+   {
+    "name": "닭고기",
+    "required": false,
+    "amount": "200g"
+   }
+  ],
+  "steps": [
+   "재료를 한입 크기로 썬다",
+   "양파와 닭고기를 볶고 감자, 당근을 넣는다",
+   "물 3컵을 붓고 익으면 카레가루를 푼다",
+   "걸쭉해지면 밥 위에 올린다"
+  ]
+ },
+ {
+  "id": 64,
+  "name": "쌀국수",
+  "cuisine": "기타",
+  "time_min": 35,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "쌀국수",
+    "required": true,
+    "amount": "200g"
+   },
+   {
+    "name": "소고기",
+    "required": true,
+    "amount": "100g"
+   },
+   {
+    "name": "숙주",
+    "required": true,
+    "amount": "1줌"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "피시소스",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "물 3컵에 소고기와 양파를 넣고 끓여 육수를 만든다",
+   "피시소스로 간한다",
+   "삶은 쌀국수에 육수를 붓고 숙주와 대파를 올린다"
+  ]
+ },
+ {
+  "id": 65,
+  "name": "나시고렝",
+  "cuisine": "기타",
+  "time_min": 20,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "2공기"
+   },
+   {
+    "name": "계란",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "새우",
+    "required": true,
+    "amount": "6마리"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/2개"
+   },
+   {
+    "name": "마늘",
+    "required": false,
+    "amount": "2쪽"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "고추",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2큰술"
+   }
+  ],
+  "steps": [
+   "기름에 마늘, 양파, 고추를 볶는다",
+   "새우를 넣어 익힌다",
+   "밥과 간장을 넣고 볶는다",
+   "계란프라이를 올린다"
+  ]
+ },
+ {
+  "id": 66,
+  "name": "계란라면",
+  "cuisine": "한식",
+  "time_min": 10,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "라면",
+    "required": true,
+    "amount": "1봉"
+   },
+   {
+    "name": "계란",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "대파",
+    "required": false,
+    "amount": "1/2대"
+   },
+   {
+    "name": "김치",
+    "required": false,
+    "amount": "1/2컵"
+   }
+  ],
+  "steps": [
+   "물 500ml를 끓인다",
+   "라면과 스프를 넣고 3분 끓인다",
+   "계란과 대파를 넣고 1분 더 끓인다"
+  ]
+ },
+ {
+  "id": 67,
+  "name": "스팸김치볶음밥",
+  "cuisine": "한식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "1공기"
+   },
+   {
+    "name": "스팸",
+    "required": true,
+    "amount": "1/2캔"
+   },
+   {
+    "name": "김치",
+    "required": true,
+    "amount": "1컵"
+   },
+   {
+    "name": "계란",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "스팸과 김치를 잘게 썬다",
+   "기름에 스팸과 김치를 볶는다",
+   "밥을 넣고 고루 볶는다",
+   "계란프라이를 올린다"
+  ]
+ },
+ {
+  "id": 68,
+  "name": "스팸마요덮밥",
+  "cuisine": "일식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "스팸",
+    "required": true,
+    "amount": "1/2캔"
+   },
+   {
+    "name": "밥",
+    "required": true,
+    "amount": "1공기"
+   },
+   {
+    "name": "마요네즈",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "계란",
+    "required": false,
+    "amount": "1개"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "스팸을 도톰하게 썰어 굽는다",
+   "간장을 발라 겉을 노릇하게 한다",
+   "밥 위에 스팸과 계란프라이를 올리고 마요네즈를 뿌린다"
+  ]
+ },
+ {
+  "id": 69,
+  "name": "고구마맛탕",
+  "cuisine": "한식",
+  "time_min": 25,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "고구마",
+    "required": true,
+    "amount": "3개"
+   },
+   {
+    "name": "설탕",
+    "required": true,
+    "amount": "3큰술"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "1컵"
+   }
+  ],
+  "steps": [
+   "고구마를 한입 크기로 썰어 물에 담갔다 건진다",
+   "기름에 노릇하게 튀긴다",
+   "팬에 설탕을 녹여 고구마를 버무린다"
+  ]
+ },
+ {
+  "id": 70,
+  "name": "군만두",
+  "cuisine": "중식",
+  "time_min": 15,
+  "difficulty": "쉬움",
+  "ingredients": [
+   {
+    "name": "만두",
+    "required": true,
+    "amount": "10개"
+   },
+   {
+    "name": "식용유",
+    "required": false,
+    "amount": "2큰술"
+   },
+   {
+    "name": "간장",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "식초",
+    "required": false,
+    "amount": "1큰술"
+   }
+  ],
+  "steps": [
+   "팬에 기름을 두르고 만두를 올린다",
+   "물 1/4컵을 붓고 뚜껑을 덮어 찐다",
+   "물이 없어지면 뚜껑을 열어 바닥을 바삭하게 굽는다",
+   "간장과 식초를 곁들인다"
+  ]
+ },
+ {
+  "id": 71,
+  "name": "고구마수프",
+  "cuisine": "서양식",
+  "time_min": 30,
+  "difficulty": "보통",
+  "ingredients": [
+   {
+    "name": "고구마",
+    "required": true,
+    "amount": "2개"
+   },
+   {
+    "name": "우유",
+    "required": true,
+    "amount": "1컵"
+   },
+   {
+    "name": "양파",
+    "required": false,
+    "amount": "1/4개"
+   },
+   {
+    "name": "버터",
+    "required": false,
+    "amount": "1큰술"
+   },
+   {
+    "name": "소금",
+    "required": false,
+    "amount": "약간"
+   }
+  ],
+  "steps": [
+   "고구마와 양파를 썰어 버터에 볶는다",
+   "물 1컵을 넣고 푹 익힌다",
+   "우유를 넣고 블렌더로 갈아 소금으로 간한다"
+  ]
+ }
+]
