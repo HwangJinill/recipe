@@ -1,0 +1,76 @@
+/* 라이트/다크 공통: 글자색은 상속하고, 배경은 반투명 색으로 얹어 두 테마에서 모두 읽히게 한다. */
+
+/* ---------- 히어로 ---------- */
+.hero {
+  /* 흰 글자 대비 4.5:1 이상(AA)을 유지하는 색 범위 */
+  background: linear-gradient(135deg, #a8330a, #c4500b);
+  color: #fff;
+  border-radius: 16px;
+  padding: 1.3rem 1.5rem;
+  margin-bottom: 1rem;
+}
+.hero-title { font-size: clamp(1.5rem, 4.5vw, 2.2rem); font-weight: 800; line-height: 1.2; }
+.hero-sub { margin-top: .4rem; font-size: clamp(.9rem, 2.6vw, 1.05rem); }
+
+/* ---------- 요리 카드 ---------- */
+.rc-head { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-bottom: .25rem; }
+.rc-name { font-size: 1.15rem; font-weight: 700; line-height: 1.3; overflow-wrap: anywhere; }
+.rc-badge {
+  display: inline-block; padding: .1rem .6rem; border-radius: 999px;
+  color: #fff; font-size: .75rem; font-weight: 700; white-space: nowrap;
+}
+.rc-badge.c-한식 { background: #c2410c; }
+.rc-badge.c-일식 { background: #1d6fb8; }
+.rc-badge.c-중식 { background: #a16207; }
+.rc-badge.c-서양식 { background: #6d28d9; }
+.rc-badge.c-기타 { background: #0f766e; }
+.rc-meta { font-size: .85rem; opacity: .8; margin-bottom: .5rem; }
+
+.rc-rate { display: flex; justify-content: space-between; font-size: .85rem; font-weight: 600; margin-bottom: .2rem; }
+.rc-bar { height: 8px; border-radius: 999px; background: rgba(128, 128, 128, .25); overflow: hidden; margin-bottom: .6rem; }
+.rc-bar-fill { height: 100%; border-radius: 999px; }
+.rate-high { background: #2f9e44; }
+.rate-mid { background: #f08c00; }
+.rate-low { background: #868e96; }
+
+/* ---------- 재료 칩 ---------- */
+.chip {
+  display: inline-block; padding: .12rem .6rem; margin: .15rem .25rem .15rem 0;
+  border-radius: 999px; border: 1px solid; font-size: .8rem; overflow-wrap: anywhere;
+}
+.chip-have { background: rgba(46, 160, 67, .16); border-color: rgba(46, 160, 67, .65); }
+.chip-miss { background: rgba(229, 72, 77, .14); border-color: rgba(229, 72, 77, .65); }
+.chip-opt { background: rgba(128, 128, 128, .12); border-color: rgba(128, 128, 128, .45); opacity: .85; }
+
+/* ---------- 카드 그리드: 폭이 좁아지면 줄바꿈 (3열 → 2열 → 1열) ---------- */
+[data-testid="stHorizontalBlock"]:has(.rc-marker) { flex-wrap: wrap; }
+[data-testid="stColumn"]:has(.rc-marker) { flex: 1 1 280px; min-width: min(280px, 100%); }
+/* 태블릿 폭: 줄바꿈된 마지막 카드가 가로 전체로 늘어나지 않도록 절반으로 제한 */
+@media (min-width: 641px) and (max-width: 1100px) {
+  [data-testid="stColumn"]:has(.rc-marker) { max-width: calc(50% - .5rem); }
+}
+
+/* ---------- 입력 재료 태그 칩 (버튼) ---------- */
+.st-key-tags, .st-key-tags > [data-testid="stVerticalBlock"] {
+  flex-direction: row !important; flex-wrap: wrap; gap: .4rem !important;
+}
+.st-key-tags [data-testid="stElementContainer"] { width: auto !important; }
+.st-key-tags button {
+  min-height: 2rem; padding: .1rem .85rem; border-radius: 999px;
+  background: rgba(221, 90, 11, .12); border: 1px solid rgba(221, 90, 11, .55);
+}
+
+/* ---------- 빈 상태 안내 ---------- */
+.empty-box {
+  border: 1px dashed rgba(128, 128, 128, .55); border-radius: 14px;
+  padding: 1.2rem 1.3rem; margin: .5rem 0 1rem;
+}
+.empty-box .empty-title { font-size: 1.1rem; font-weight: 700; margin-bottom: .3rem; }
+.empty-box .empty-sub { opacity: .85; font-size: .95rem; }
+
+/* ---------- 모바일 ---------- */
+html, body, [data-testid="stAppViewContainer"] { overflow-x: hidden; }
+@media (max-width: 640px) {
+  .hero { padding: 1rem 1.1rem; border-radius: 12px; }
+  .rc-name { font-size: 1.05rem; }
+}
